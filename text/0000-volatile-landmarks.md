@@ -10,7 +10,7 @@ Add a new category of landmarks that is volatile, i.e. can be overwritten by a n
 
 Currently, landmarks are assumed to be fixed points in the environments that have an unique ID assigned to it.
 
-In real-worl applications, it can happen that landmark IDs occur twice.
+In real-world applications, it can happen that landmark IDs occur twice.
 With the current implementation, this leads to very destructive results if the landmark is weighted high.
 
 *add example image / video with landmark sampler*
